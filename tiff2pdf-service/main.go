@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/companieshouse/go-tiff2pdf/tiff2pdf"
 	"github.com/gorilla/mux"
+	"github.com/maxnilz/go-tiff2pdf/tiff2pdf"
 )
 
 func main() {

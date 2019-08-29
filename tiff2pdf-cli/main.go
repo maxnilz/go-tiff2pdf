@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/companieshouse/go-tiff2pdf/tiff2pdf"
+	"github.com/maxnilz/go-tiff2pdf/tiff2pdf"
 	"github.com/spf13/cobra"
 )
 
