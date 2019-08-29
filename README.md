@@ -1,7 +1,9 @@
 go-tiff2pdf [![GoDoc](https://godoc.org/github.com/companieshouse/go-tiff2pdf?status.svg)](https://godoc.org/github.com/companieshouse/go-tiff2pdf) [![Build Status](https://travis-ci.org/companieshouse/go-tiff2pdf.svg?branch=master)](https://travis-ci.org/companieshouse/go-tiff2pdf)
 ===========
 
-tiff2pdf (from libtiff) as a service.
+tiff2pdf (from libtiff) as a service and a cli tool.
+
+This is a fork from github.com/companieshouse/go-tiff2pdf
 
 ### Getting started
 
@@ -13,6 +15,7 @@ tiff2pdf (from libtiff) as a service.
 This has been tested on:
 * Mac OS X 10.10 with Go 1.3.1 and Go 1.3.3
 * Ubuntu 14.04 with Go 1.2.1
+* Ubuntu 18.04 with Go 1.12.7
 
 ### TIFF to PDF request example
 
