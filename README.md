@@ -3,7 +3,7 @@ go-tiff2pdf [![GoDoc](https://godoc.org/github.com/maxnilz/go-tiff2pdf?status.sv
 
 tiff2pdf (from libtiff) as a service and a cli tool.
 
-This is a fork from github.com/companieshouse/go-tiff2pdf
+This is a fork from [github.com/companieshouse/go-tiff2pdf](https://github.com/companieshouse/go-tiff2pdf)
 
 ### Getting started
 

@@ -54,8 +54,6 @@ func cmd() *cobra.Command {
 	c.Flags().StringVar(&config.Creator, "creator", config.Creator, "the image software used to create the document")
 	c.Flags().StringVar(&config.Title, "title", config.Title, "the document title")
 
-	//c.SetUsageTemplate(`Use "` + filepath.Base(os.Args[0]) + ` --help" for more information.`)
-
 	return &c
 }
 
